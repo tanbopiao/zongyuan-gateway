@@ -1,0 +1,17 @@
+{
+ "universe": "ZONGYUAN-ROOT",
+ "realm": "zongyuan-gateway",
+ "repo_role": "记忆网关·双向同步",
+ "cn_name": "元极恒一·全域网关",
+ "did": "DID-BR-000002",
+ "formula": "本体基线 + 全域资产台账 + 启动记忆 + 云端网关仲裁 = 自治智能体系",
+ "boot_phrase": "元极恒一",
+ "gateway": {
+  "main": "https://www.huodouai.com/api/report/truth",
+  "backup": "https://drama.huodouai.com/api/report/truth",
+  "status": "https://www.huodouai.com/api/status"
+ },
+ "parent_repo": "https://github.com/tanbopiao/zongyuan-root",
+ "naming_spec": "数字资产宇宙命名总纲-V1.0",
+ "generated_at": "2026-11-22T23:52:40+08:00"
+}
